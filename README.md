@@ -18,6 +18,9 @@
     <img align="center" alt="Zabbix" src="https://img.shields.io/badge/-Zabbix-red?style=for-the-badge&logo=zabbix&logoColor=white" />
     <img align="center" alt="Elastic" src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" />
     <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+
 
 
 
